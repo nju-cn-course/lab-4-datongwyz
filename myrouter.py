@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 
-'''
-基本的IPv4路由器（静态路由）用Python编写。
-'''
+
 
 import time
 import switchyard
